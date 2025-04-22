@@ -1,6 +1,5 @@
 class GenerateParams:
-    def __init__(self, quote_list, days_range, interval, fundamental, dividends, modules, token):
-        self.quote_list = quote_list
+    def __init__(self, days_range, interval, fundamental, dividends, modules, token):
         self.days_range = days_range
         self.interval = interval
         self.fundamental = fundamental
@@ -11,7 +10,7 @@ class GenerateParams:
     def get_params(self):
         if self.fundamental == 'true' or self.dividends == 'true':
             raise NotImplementedError
-        elif self.modules != 'summaryProfile':
+        elif self.modules != 'summaryProfile' or self.modules != 'list':
             raise NotImplementedError
         else:
             params = {
@@ -23,3 +22,13 @@ class GenerateParams:
                 'token': self.token,
             }
             return params
+
+class ValidateParams:
+    def __init__(self, params):
+       self.params = params
+
+    def validate(self):
+        if self.params.get('fundamental') == 'true' or self.params.get('dividends') == 'true':
+            raise NotImplementedError
+        else:
+            return self.params

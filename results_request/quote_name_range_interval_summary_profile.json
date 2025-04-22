@@ -1,0 +1,278 @@
+{
+  "results": [
+    {
+      "symbol": "PETR4", // Ticker
+      "currency": "BRL", // Moeda
+      "twoHundredDayAverage": 29.55485, // Média de 200 dias
+      "twoHundredDayAverageChange": 7.1551495, // Variação da média de 200 dias
+      "twoHundredDayAverageChangePercent": 0.2420973, // Variação percentual da média de 200 dias
+      "marketCap": 497695817728, // Capitalização de mercado
+      "shortName": "PETROBRAS   PN      N2", // Nome da empresa
+      "longName": "Petróleo Brasileiro S.A. - Petrobras", // Nome longo da empresa
+      "regularMarketChange": 1.1599998, // Variação do preço diário
+      "regularMarketChangePercent": 3.2630093, // Variação percentual do preço diário
+      "regularMarketTime": "2023-11-17T21:07:47.000Z", // Data e hora do último preço
+      "regularMarketPrice": 36.71, // Preço atual
+      "regularMarketDayHigh": 36.82, // Preço máximo do dia
+      "regularMarketDayRange": "35.51 - 36.82", // Faixa de preço do dia
+      "regularMarketDayLow": 35.51, // Preço mínimo do dia
+      "regularMarketVolume": 87666300, // Volume do dia
+      "regularMarketPreviousClose": 35.55, // Preço de fechamento do dia anterior
+      "regularMarketOpen": 35.83, // Preço de abertura do dia
+      "averageDailyVolume3Month": 49987483, // Volume médio dos últimos 3 meses
+      "averageDailyVolume10Day": 54835377, // Volume médio dos últimos 10 dias
+      "fiftyTwoWeekLowChange": 36.71, // Variação do preço em relação ao mínimo dos últimos 52 semanas
+      "fiftyTwoWeekRange": "32.21 - 38.86", // Faixa de preço dos últimos 52 semanas
+      "fiftyTwoWeekHighChange": -2.1500015, // Variação do preço em relação ao máximo dos últimos 52 semanas
+      "fiftyTwoWeekHighChangePercent": -0.055326853, // Variação percentual do preço em relação ao máximo dos últimos 52 semanas
+      "fiftyTwoWeekLow": 32.21, // Preço mínimo dos últimos 52 semanas
+      "fiftyTwoWeekHigh": 38.86, // Preço máximo dos últimos 52 semanas
+      "usedInterval": "1d", // Intervalo de tempo utilizado quando ?interval=1d
+      "usedRange": "5d", // Intervalo de tempo utilizado quando ?range=5d
+      "historicalDataPrice": [
+        {
+          "date": 1740056400,
+          "open": 38.42,
+          "high": 38.57,
+          "low": 38.31,
+          "close": 38.5,
+          "volume": 26641200,
+          "adjustedClose": 38.5
+        },
+        {
+          "date": 1740142800,
+          "open": 38.53,
+          "high": 38.53,
+          "low": 38.17,
+          "close": 38.39,
+          "volume": 30115200,
+          "adjustedClose": 38.39
+        },
+        {
+          "date": 1740402000,
+          "open": 38.5,
+          "high": 38.51,
+          "low": 37.8,
+          "close": 38.12,
+          "volume": 27830300,
+          "adjustedClose": 38.12
+        },
+        {
+          "date": 1740488400,
+          "open": 38.12,
+          "high": 38.44,
+          "low": 37.83,
+          "close": 37.95,
+          "volume": 31960900,
+          "adjustedClose": 37.95
+        },
+        {
+          "date": 1740574800,
+          "open": 38.25,
+          "high": 38.25,
+          "low": 37.75,
+          "close": 37.95,
+          "volume": 27420200,
+          "adjustedClose": 37.95
+        },
+        {
+          "date": 1740661200,
+          "open": 36.36,
+          "high": 36.74,
+          "low": 35.48,
+          "close": 36.61,
+          "volume": 129693500,
+          "adjustedClose": 36.61
+        },
+        {
+          "date": 1740747600,
+          "open": 36.49,
+          "high": 36.55,
+          "low": 35.81,
+          "close": 35.93,
+          "volume": 55476800,
+          "adjustedClose": 35.93
+        },
+        {
+          "date": 1741190400,
+          "open": 35.02,
+          "high": 35.11,
+          "low": 34.55,
+          "close": 34.62,
+          "volume": 48552000,
+          "adjustedClose": 34.62
+        },
+        {
+          "date": 1741266000,
+          "open": 34.81,
+          "high": 35.12,
+          "low": 34.03,
+          "close": 34.26,
+          "volume": 47749600,
+          "adjustedClose": 34.26
+        },
+        {
+          "date": 1741352400,
+          "open": 34.29,
+          "high": 34.93,
+          "low": 34.23,
+          "close": 34.63,
+          "volume": 28074700,
+          "adjustedClose": 34.63
+        },
+        {
+          "date": 1741611600,
+          "open": 34.58,
+          "high": 34.62,
+          "low": 34,
+          "close": 34.62,
+          "volume": 35037200,
+          "adjustedClose": 34.62
+        },
+        {
+          "date": 1741698000,
+          "open": 34.75,
+          "high": 34.9,
+          "low": 33.91,
+          "close": 34.1,
+          "volume": 28805400,
+          "adjustedClose": 34.1
+        },
+        {
+          "date": 1741784400,
+          "open": 34.16,
+          "high": 34.4,
+          "low": 33.96,
+          "close": 34.1,
+          "volume": 20149100,
+          "adjustedClose": 34.1
+        },
+        {
+          "date": 1741870800,
+          "open": 34.18,
+          "high": 34.54,
+          "low": 34.04,
+          "close": 34.44,
+          "volume": 19263600,
+          "adjustedClose": 34.44
+        },
+        {
+          "date": 1741957200,
+          "open": 34.6,
+          "high": 35.76,
+          "low": 34.37,
+          "close": 35.5,
+          "volume": 41529400,
+          "adjustedClose": 35.5
+        },
+        {
+          "date": 1742216400,
+          "open": 35.61,
+          "high": 36.41,
+          "low": 35.6,
+          "close": 36.16,
+          "volume": 31175900,
+          "adjustedClose": 36.16
+        },
+        {
+          "date": 1742302800,
+          "open": 36.19,
+          "high": 36.41,
+          "low": 35.91,
+          "close": 36.19,
+          "volume": 15086400,
+          "adjustedClose": 36.19
+        },
+        {
+          "date": 1742389200,
+          "open": 36.27,
+          "high": 36.33,
+          "low": 36.03,
+          "close": 36.16,
+          "volume": 21180500,
+          "adjustedClose": 36.16
+        },
+        {
+          "date": 1742475600,
+          "open": 36.16,
+          "high": 36.48,
+          "low": 35.76,
+          "close": 36.24,
+          "volume": 46921900,
+          "adjustedClose": 36.24
+        },
+        {
+          "date": 1742562000,
+          "open": 36.22,
+          "high": 37.03,
+          "low": 36.18,
+          "close": 36.8,
+          "volume": 61175700,
+          "adjustedClose": 36.8
+        }
+      ],
+      "validRanges": [
+        "1d",
+        "2d",
+        "5d",
+        "7d",
+        "1mo",
+        "3mo",
+        "6mo",
+        "1y",
+        "2y",
+        "5y",
+        "10y",
+        "ytd",
+        "max"
+      ],
+      "validIntervals": [
+        "1m",
+        "2m",
+        "5m",
+        "15m",
+        "30m",
+        "60m",
+        "90m",
+        "1h",
+        "1d",
+        "5d",
+        "1wk",
+        "1mo",
+        "3mo"
+      ],
+      "summaryProfile": {
+        "symbol": "PETR4",
+        "address1": "Avenida RepUblica do Chile, 65",
+        "address2": "Centro",
+        "address3": null,
+        "city": "Rio De Janeiro",
+        "state": "RJ",
+        "zip": "20031-912",
+        "country": "Brazil",
+        "phone": "55 21 96940 2116",
+        "fax": null,
+        "website": "https://petrobras.com.br",
+        "industry": "Oil & Gas Integrated",
+        "industryKey": "oil-gas-integrated",
+        "industryDisp": "Oil & Gas Integrated",
+        "sector": "Energy",
+        "sectorKey": "energy",
+        "sectorDisp": "Energy",
+        "longBusinessSummary": "Petróleo Brasileiro S.A. - Petrobras explores, produces, and sells oil and gas in Brazil and internationally. The company operates through Exploration and Production; Refining, Transportation and Marketing; and Gas and Power. It also engages in prospecting, drilling, refining, processing, trading, and transporting crude oil from producing onshore and offshore oil fields, and shale or other rocks, as well as oil products, natural gas, and other liquid hydrocarbons. The Exploration and Production segment explores, develops, and produces crude oil, natural gas liquids, and natural gas primarily for supplies to the domestic refineries. The Refining, Transportation and Marketing segment engages in the refining, logistics, transport, marketing, and trading of crude oil and oil products; exportation of ethanol; and extraction and processing of shale, as well as holding interests in petrochemical companies. The Gas and Power segment is involved in the logistic and trading of natural gas and electricity; transportation and trading of LNG; generation of electricity through thermoelectric power plants; holding interests in transportation and distribution of natural gas; and fertilizer production and natural gas processing business. In addition, the company produces biodiesel and its co-products, and ethanol; and distributes oil products. Further, it engages in research, development, production, transport, distribution, and trading of energy. Petróleo Brasileiro S.A. - Petrobras was incorporated in 1953 and is headquartered in Rio de Janeiro, Brazil.",
+        "fullTimeEmployees": 45149,
+        "companyOfficers": [],
+        "twitter": null,
+        "name": null,
+        "startDate": null,
+        "description": null,
+        "updatedAt": "2024-01-23 22:00:37.476467+00"
+      },
+      "priceEarnings": 12.75080221,
+      "earningsPerShare": 2.8358848,
+      "logourl": "https://icons.brapi.dev/icons/PETR4.svg"
+    }
+  ],
+  "requestedAt": "2025-03-22T22:12:27.399Z",
+  "took": "0ms"
+}
